@@ -1,0 +1,143 @@
+[[gocloc]]
+arch = "aarch64"
+git-tree-sha1 = "5b4258992691e44560cac54c6030dd76d7feb642"
+os = "macos"
+
+    [[gocloc.download]]
+    sha256 = "a981f27bb6a4029abb9387a178e64d92ed0b91fbaeedc551b59f79daf1d28e01"
+    url = "https://github.com/JuliaBinaryWrappers/gocloc_jll.jl/releases/download/gocloc-v0.4.1+0/gocloc.v0.4.1.aarch64-apple-darwin.tar.gz"
+[[gocloc]]
+arch = "aarch64"
+git-tree-sha1 = "777a7f5a2f4de12cbf48991ab5387d45abc12243"
+libc = "glibc"
+os = "linux"
+
+    [[gocloc.download]]
+    sha256 = "fed284e224c9138d0838810a911902e70cf4e0b297f85971bc9653363fa7795a"
+    url = "https://github.com/JuliaBinaryWrappers/gocloc_jll.jl/releases/download/gocloc-v0.4.1+0/gocloc.v0.4.1.aarch64-linux-gnu.tar.gz"
+[[gocloc]]
+arch = "aarch64"
+git-tree-sha1 = "15879b5c54f7399a96b75233994b24abb7255e7b"
+libc = "musl"
+os = "linux"
+
+    [[gocloc.download]]
+    sha256 = "4449c300be4a9c0dae2b80fbc24b51f8897e7f9845c390b2ab24c905212e27da"
+    url = "https://github.com/JuliaBinaryWrappers/gocloc_jll.jl/releases/download/gocloc-v0.4.1+0/gocloc.v0.4.1.aarch64-linux-musl.tar.gz"
+[[gocloc]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e5e6f89a6ece02687a9d52ed9a8785b54360d005"
+libc = "glibc"
+os = "linux"
+
+    [[gocloc.download]]
+    sha256 = "064f26273a32773cdefefb71d9d95de019db6ebabdf05ef0965e1e258f7461db"
+    url = "https://github.com/JuliaBinaryWrappers/gocloc_jll.jl/releases/download/gocloc-v0.4.1+0/gocloc.v0.4.1.armv6l-linux-gnueabihf.tar.gz"
+[[gocloc]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d62f1e832aef4040b2c65556d1b3935cdb1c8c9d"
+libc = "musl"
+os = "linux"
+
+    [[gocloc.download]]
+    sha256 = "e54a7b6c54ad0bd30905b0848e827c17bc6fdba4b35bc2db4abd5ecc8250ac55"
+    url = "https://github.com/JuliaBinaryWrappers/gocloc_jll.jl/releases/download/gocloc-v0.4.1+0/gocloc.v0.4.1.armv6l-linux-musleabihf.tar.gz"
+[[gocloc]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "63103521267b5de3e2724e77c741868cf8f3f41f"
+libc = "glibc"
+os = "linux"
+
+    [[gocloc.download]]
+    sha256 = "322a2b67f2d441009aa194aab55a1faee95ae5441a47b0bc468b0f66d9eccf05"
+    url = "https://github.com/JuliaBinaryWrappers/gocloc_jll.jl/releases/download/gocloc-v0.4.1+0/gocloc.v0.4.1.armv7l-linux-gnueabihf.tar.gz"
+[[gocloc]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "049ddb56420dd181793fec42adc549283e08271a"
+libc = "musl"
+os = "linux"
+
+    [[gocloc.download]]
+    sha256 = "5040a6ae8648353e4b24297a84bda6635be0facc100a1570a5f4e09a0e87843e"
+    url = "https://github.com/JuliaBinaryWrappers/gocloc_jll.jl/releases/download/gocloc-v0.4.1+0/gocloc.v0.4.1.armv7l-linux-musleabihf.tar.gz"
+[[gocloc]]
+arch = "i686"
+git-tree-sha1 = "7dc0465d8842c12b76abdfcde2539cab05df5439"
+libc = "glibc"
+os = "linux"
+
+    [[gocloc.download]]
+    sha256 = "a873336c962d451a10616d9a3ca782362f053df634d4b9bddc024c08c2901606"
+    url = "https://github.com/JuliaBinaryWrappers/gocloc_jll.jl/releases/download/gocloc-v0.4.1+0/gocloc.v0.4.1.i686-linux-gnu.tar.gz"
+[[gocloc]]
+arch = "i686"
+git-tree-sha1 = "2bf06282dedf807fc4e4ca9528bf9244d361ac4c"
+libc = "musl"
+os = "linux"
+
+    [[gocloc.download]]
+    sha256 = "cf06b5b8bf0c8ab7e917c73f9e3de1e83382445461361917ce05e1d35e34fd59"
+    url = "https://github.com/JuliaBinaryWrappers/gocloc_jll.jl/releases/download/gocloc-v0.4.1+0/gocloc.v0.4.1.i686-linux-musl.tar.gz"
+[[gocloc]]
+arch = "i686"
+git-tree-sha1 = "719ae66ee9f8a9e9ee188df72a1754e357306a1a"
+os = "windows"
+
+    [[gocloc.download]]
+    sha256 = "b5a26b5e70841118a7a80f4cc5731d1a6fec27c2e3018883fee31927f93eaf6a"
+    url = "https://github.com/JuliaBinaryWrappers/gocloc_jll.jl/releases/download/gocloc-v0.4.1+0/gocloc.v0.4.1.i686-w64-mingw32.tar.gz"
+[[gocloc]]
+arch = "powerpc64le"
+git-tree-sha1 = "c0017139d5e86a650c3962894e2b316e5917bd38"
+libc = "glibc"
+os = "linux"
+
+    [[gocloc.download]]
+    sha256 = "6aa5dd703f1d52508dae7667d8f4faca8d28a12e7c5a057aceb67915fd76a41f"
+    url = "https://github.com/JuliaBinaryWrappers/gocloc_jll.jl/releases/download/gocloc-v0.4.1+0/gocloc.v0.4.1.powerpc64le-linux-gnu.tar.gz"
+[[gocloc]]
+arch = "x86_64"
+git-tree-sha1 = "ad3a563dfc8eec087e9a9963893e9635b21a7900"
+os = "macos"
+
+    [[gocloc.download]]
+    sha256 = "5591bbe64ad8e8aa013bb7f77406e9b367d96fc91bf7599db49814bf447d8a8a"
+    url = "https://github.com/JuliaBinaryWrappers/gocloc_jll.jl/releases/download/gocloc-v0.4.1+0/gocloc.v0.4.1.x86_64-apple-darwin.tar.gz"
+[[gocloc]]
+arch = "x86_64"
+git-tree-sha1 = "f16fc36450591b8307f9d669c8c43c7d5e26a523"
+libc = "glibc"
+os = "linux"
+
+    [[gocloc.download]]
+    sha256 = "7886b16e96d3c8d91b3408fe61cdbbaeb48d95e61d9bfaffad322a1febd5412f"
+    url = "https://github.com/JuliaBinaryWrappers/gocloc_jll.jl/releases/download/gocloc-v0.4.1+0/gocloc.v0.4.1.x86_64-linux-gnu.tar.gz"
+[[gocloc]]
+arch = "x86_64"
+git-tree-sha1 = "cd86349c7efa351bc517d71136c1bdf118cad7da"
+libc = "musl"
+os = "linux"
+
+    [[gocloc.download]]
+    sha256 = "c0f136ecde0bdd2c69ae550a1d909cb05704771938d4d3d72daf7af4948dca4d"
+    url = "https://github.com/JuliaBinaryWrappers/gocloc_jll.jl/releases/download/gocloc-v0.4.1+0/gocloc.v0.4.1.x86_64-linux-musl.tar.gz"
+[[gocloc]]
+arch = "x86_64"
+git-tree-sha1 = "3e22eb0302b881b20dc6ed889c636e2bd23df78a"
+os = "freebsd"
+
+    [[gocloc.download]]
+    sha256 = "3e60aa1335ca9e318ef52aa3fa3d4278666c97f6c923b84209456acfa3c789d4"
+    url = "https://github.com/JuliaBinaryWrappers/gocloc_jll.jl/releases/download/gocloc-v0.4.1+0/gocloc.v0.4.1.x86_64-unknown-freebsd.tar.gz"
+[[gocloc]]
+arch = "x86_64"
+git-tree-sha1 = "b2f22063bc5760eac295164bebdb4468e1fda34c"
+os = "windows"
+
+    [[gocloc.download]]
+    sha256 = "c61045b5741d3d396038ce3f425f011177ed3224611fff2cdc3481604825912b"
+    url = "https://github.com/JuliaBinaryWrappers/gocloc_jll.jl/releases/download/gocloc-v0.4.1+0/gocloc.v0.4.1.x86_64-w64-mingw32.tar.gz"
